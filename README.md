@@ -1,1 +1,1 @@
-# Projects, created during the course "Blockchain development" by "Distributed Lab"
+"Large numbers" task. Basic blockchain program
